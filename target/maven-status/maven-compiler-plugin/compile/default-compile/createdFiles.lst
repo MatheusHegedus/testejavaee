@@ -1,0 +1,14 @@
+javaee\javaee\service\EmpresaService.class
+javaee\javaee\model\Member.class
+javaee\javaee\model\Member_.class
+javaee\javaee\rest\EmpresaResourceRESTService_JSON.class
+javaee\javaee\model\Endereco.class
+javaee\javaee\rest\JaxRsActivator.class
+javaee\javaee\util\Resources.class
+javaee\javaee\data\MemberRepository.class
+javaee\javaee\rest\MemberResourceRESTService.class
+javaee\javaee\service\MemberRegistration.class
+javaee\javaee\controller\MemberController.class
+javaee\javaee\data\MemberListProducer.class
+javaee\javaee\rest\EmpresaResourceRESTService_XML.class
+javaee\javaee\model\Empresa.class
