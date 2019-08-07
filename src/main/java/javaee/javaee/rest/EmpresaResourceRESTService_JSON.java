@@ -24,6 +24,5 @@ public class EmpresaResourceRESTService_JSON {
 	public List<Empresa> listAll() {
 
 		return empresaService.allFind();
-
 	}
 }
