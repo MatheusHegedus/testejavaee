@@ -21,15 +21,13 @@ public class FuncionarioService {
 		endereco5.setComplemento("Fundo");
 		endereco5.setBairro("Pinheiros");
 		
-		Funcionario funcionario5 = new Funcionario();
-		funcionario5.setCpf(123456789l);
-		funcionario5.setNome("João silva");
-		funcionario5.setTelefone("(11) 98765-4321");
-		funcionario5.setEndereco(endereco5);
+		Funcionario funcionario9 = new Funcionario();
+		funcionario9.setCpf(123456789l);
+		funcionario9.setNome("Luis Carlos Fonseca");
+		funcionario9.setTelefone("(11) 98765-4321");
+		funcionario9.setEndereco(endereco5);
 		
-
-		listadefuncionario.add(funcionario5);
-
+		listadefuncionario.add(funcionario9);
 
 		return listadefuncionario;
 

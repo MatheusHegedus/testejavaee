@@ -17,13 +17,13 @@ public class FornecedoresService {
 		end5.setLogradouro("Rua dos Pineheiros");
 		end5.setNumero("485");
 		
-		Fornecedores fornec3 = new Fornecedores();
-		fornec3.setNome("MAC Sombreadores e toldos");
-		fornec3.setCnpj("12302914660");
-		fornec3.setTelefone("98462-2119");
-		fornec3.setEndereco(end5);
+		Fornecedores fornec8 = new Fornecedores();
+		fornec8.setNome("Empresa de Adesivos");
+		fornec8.setCnpj("12302914660");
+		fornec8.setTelefone("98462-2119");
+		fornec8.setEndereco(end5);
 	
-		listaFornec.add(fornec3);
+		listaFornec.add(fornec8);
 		
 		return listaFornec;
 	

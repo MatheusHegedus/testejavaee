@@ -23,15 +23,15 @@ public class EmpresaService {
 		endereco5.setCidade("São Paulo");
 		endereco5.setUf("SP");
 
-		Empresa empresa5 = new Empresa();
+		Empresa empresa9 = new Empresa();
 
-		empresa5.setNome("Empresa");
-		empresa5.setEndereco(endereco5);
-		empresa5.setCnpj("99.999.999/0001-99");
-		empresa5.setTelefone("11 9999-9999");
-		empresa5.setRepresentante("Mario");
+		empresa9.setNome("Empresa Nova");
+		empresa9.setEndereco(endereco5);
+		empresa9.setCnpj("99.999.999/0001-99");
+		empresa9.setTelefone("11 9999-9999");
+		empresa9.setRepresentante("Mario");
 
-		listadefuncionario.add(empresa5);
+		listadefuncionario.add(empresa9);
 		return listadefuncionario;
 	}
 
