@@ -5,18 +5,18 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement
 public class Empresa {
 
-	private String nome;
+	private String nomes1;
 	private Endereco endereco;
 	private String cnpj;
 	private String telefone;
 	private String representante;
 
 	public String getNome() {
-		return nome;
+		return nomes1;
 	}
 
 	public void setNome(String nome) {
-		this.nome = nome;
+		this.nomes1 = nome;
 	}
 
 	public Endereco getEndereco() {
