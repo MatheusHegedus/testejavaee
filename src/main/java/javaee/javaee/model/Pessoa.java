@@ -9,6 +9,25 @@ public class Pessoa {
 	private String email;
 	private double altura;
 	private long cpf;
+	private long telefone;
+	private long rg;
+
+
+	public long getTelefone() {
+		return telefone;
+	}
+
+	public void setTelefone(long telefone) {
+		this.telefone = telefone;
+	}
+
+	public long getRg() {
+		return rg;
+	}
+
+	public void setRg(long rg) {
+		this.rg = rg;
+	}
 
 	public String getNome() {
 		return nome;
