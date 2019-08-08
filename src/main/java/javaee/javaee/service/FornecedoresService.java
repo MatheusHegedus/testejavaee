@@ -18,7 +18,7 @@ public class FornecedoresService {
 		end1.setNumero("485");
 		
 		Fornecedores fornec1 = new Fornecedores();
-		fornec1.setNome("MAC Sombreadores e toldos");
+		fornec1.setNome("Empresa de Adesivos");
 		fornec1.setCnpj("12302914660");
 		fornec1.setTelefone("98462-2119");
 		fornec1.setEndereco(end1);

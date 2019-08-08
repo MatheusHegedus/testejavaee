@@ -24,7 +24,7 @@ public class FuncionarioService {
 		
 		Funcionario funcionario1 = new Funcionario();
 		funcionario1.setCpf(123456789l);
-		funcionario1.setNome("João silva");
+		funcionario1.setNome("Luis Carlos Fonseca");
 		funcionario1.setTelefone("(11) 98765-4321");
 		funcionario1.setEndereco(endereco1);
 		

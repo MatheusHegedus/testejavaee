@@ -25,7 +25,7 @@ public class EmpresaService {
 
 		Empresa empresa1 = new Empresa();
 
-		empresa1.setNome("Empresa");
+		empresa1.setNome("Empresa Nova");
 		empresa1.setEndereco(endereco1);
 		empresa1.setCnpj("99.999.999/0001-99");
 		empresa1.setTelefone("11 9999-9999");
