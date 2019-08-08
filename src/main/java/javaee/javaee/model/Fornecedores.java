@@ -6,7 +6,7 @@ public class Fornecedores {
 	
 //atributos
 	
-	private String nome;
+	private String nomE;
 	
 	private String telefone;
 	
@@ -18,11 +18,11 @@ public class Fornecedores {
 // Getters and Setters
 	
 	public String getNome() {
-		return nome;
+		return nomE;
 	}
 
 	public void setNome(String nome) {
-		this.nome = nome;
+		this.nomE = nome;
 	}
 
 	public String getTelefone() {

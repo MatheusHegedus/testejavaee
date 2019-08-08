@@ -1,0 +1,49 @@
+[33mcommit 9afea0580039cd289479d6a93a4fac3975f69859[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Augusto Gernavi <augusto.gernavi@gmail.com>
+Date:   Thu Aug 8 09:29:58 2019 -0300
+
+    Alterando dados empresa, funcionario e fornecedor
+
+[33mcommit 4daea7f8ba58321f8181596b21ba00308bba2151[m[33m ([m[1;33mtag: v0.1.0[m[33m)[m
+Merge: ae0dd5e ccfd65f
+Author: Augusto Gernavi <augusto.gernavi@gmail.com>
+Date:   Wed Aug 7 16:17:38 2019 -0300
+
+    Merge branch 'master' of https://github.com/GusGernavi/testejavaee
+
+[33mcommit ae0dd5ed2b1fc5ed2c3d8e3102777a90c2838e70[m
+Author: Augusto Gernavi <augusto.gernavi@gmail.com>
+Date:   Wed Aug 7 16:17:23 2019 -0300
+
+    Atualizando para poder dar pull
+
+[33mcommit ccfd65f6d7bea204463fca4ff4d42d452b4aa057[m
+Merge: 4ec9e88 22f97a7
+Author: MatheusHegedus <50836913+MatheusHegedus@users.noreply.github.com>
+Date:   Wed Aug 7 16:08:04 2019 -0300
+
+    Merge branch 'master' of https://github.com/GusGernavi/testejavaee
+
+[33mcommit 4ec9e88cc0f94097858cdc2ca03d0683cee88e2d[m
+Author: MatheusHegedus <50836913+MatheusHegedus@users.noreply.github.com>
+Date:   Wed Aug 7 15:57:09 2019 -0300
+
+    Adicionando funcionarios
+
+[33mcommit 22f97a7a53a7f729ad0074455f98cd4dc81cde76[m
+Author: Marcos Henrique Soares Dutra <50711978+mhredbluz@users.noreply.github.com>
+Date:   Wed Aug 7 15:53:09 2019 -0300
+
+    Adcionando Fornecedores
+
+[33mcommit 67d944636cd9e345f60ff51a753d9b7c36a4457d[m
+Author: Augusto Gernavi <augusto.gernavi@gmail.com>
+Date:   Tue Aug 6 15:42:04 2019 -0300
+
+    Adicionando Web Service REST Empresa
+
+[33mcommit cc5093bb98e8309080c454880a5928db5a80fe89[m
+Author: Augusto Gernavi <augusto.gernavi@gmail.com>
+Date:   Tue Aug 6 15:19:48 2019 -0300
+
+    Primeiro Commit Java EE
