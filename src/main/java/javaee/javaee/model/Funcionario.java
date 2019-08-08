@@ -8,7 +8,7 @@ public class Funcionario {
 	
 	private Endereco endereco;
 	private Long cpf;
-	private String nome;
+	private String name;
 	private String telefone;
 	
 	
@@ -26,10 +26,10 @@ public class Funcionario {
 		this.cpf = cpf;
 	}
 	public String getNome() {
-		return nome;
+		return name;
 	}
 	public void setNome(String nome) {
-		this.nome = nome;
+		this.name = nome;
 	}
 	public String getTelefone() {
 		return telefone;
