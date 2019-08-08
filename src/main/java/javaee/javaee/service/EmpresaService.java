@@ -14,24 +14,24 @@ public class EmpresaService {
 	public List<Empresa> allFind() {
 		List<Empresa> listadefuncionario = new ArrayList<Empresa>();
 
-		Endereco endereco1 = new Endereco();
+		Endereco endereco5 = new Endereco();
 
-		endereco1.setLogradouro("Av Paulista");
-		endereco1.setNumero("1234");
-		endereco1.setComplemento("10º Andar");
-		endereco1.setBairro("Jardins");
-		endereco1.setCidade("São Paulo");
-		endereco1.setUf("SP");
+		endereco5.setLogradouro("Av Paulista");
+		endereco5.setNumero("1234");
+		endereco5.setComplemento("10º Andar");
+		endereco5.setBairro("Jardins");
+		endereco5.setCidade("São Paulo");
+		endereco5.setUf("SP");
 
-		Empresa empresa1 = new Empresa();
+		Empresa empresa5 = new Empresa();
 
-		empresa1.setNome("Empresa Nova");
-		empresa1.setEndereco(endereco1);
-		empresa1.setCnpj("99.999.999/0001-99");
-		empresa1.setTelefone("11 9999-9999");
-		empresa1.setRepresentante("Mario");
+		empresa5.setNome("Empresa");
+		empresa5.setEndereco(endereco5);
+		empresa5.setCnpj("99.999.999/0001-99");
+		empresa5.setTelefone("11 9999-9999");
+		empresa5.setRepresentante("Mario");
 
-		listadefuncionario.add(empresa1);
+		listadefuncionario.add(empresa5);
 		return listadefuncionario;
 	}
 

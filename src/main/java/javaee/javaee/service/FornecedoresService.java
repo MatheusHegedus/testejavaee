@@ -11,19 +11,19 @@ public class FornecedoresService {
 	
 		List<Fornecedores> listaFornec = new ArrayList<Fornecedores>();
 		
-		Endereco end1 = new Endereco();
-		end1.setBairro("Jardins");
-		end1.setComplemento("Bloco C");
-		end1.setLogradouro("Rua dos Pineheiros");
-		end1.setNumero("485");
+		Endereco end5 = new Endereco();
+		end5.setBairro("Jardins");
+		end5.setComplemento("Bloco C");
+		end5.setLogradouro("Rua dos Pineheiros");
+		end5.setNumero("485");
 		
-		Fornecedores fornec1 = new Fornecedores();
-		fornec1.setNome("Empresa de Adesivos");
-		fornec1.setCnpj("12302914660");
-		fornec1.setTelefone("98462-2119");
-		fornec1.setEndereco(end1);
+		Fornecedores fornec3 = new Fornecedores();
+		fornec3.setNome("MAC Sombreadores e toldos");
+		fornec3.setCnpj("12302914660");
+		fornec3.setTelefone("98462-2119");
+		fornec3.setEndereco(end5);
 	
-		listaFornec.add(fornec1);
+		listaFornec.add(fornec3);
 		
 		return listaFornec;
 	
